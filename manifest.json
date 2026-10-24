@@ -1,0 +1,16 @@
+{
+  "name": "FitGram - 2-Day Recomp Tracker",
+  "short_name": "FitGram",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='50' fill='%23fd1d1d'/><text x='50%' y='55%' font-size='45' font-weight='bold' fill='white' text-anchor='middle' dominant-baseline='middle'>FG</text></svg>",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
